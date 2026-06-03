@@ -13,4 +13,4 @@ Analyze retail sales data and visualize category-wise performance.
 Python, Pandas, Matplotlib, Google Colab
 
 ## Author
-Ayushi Deshmukh
+Mayank Hedaoo 
